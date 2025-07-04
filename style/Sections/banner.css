@@ -181,9 +181,6 @@ section.banner .name-overview {
 section.banner .location p {
     font-size: 14px;
 }
-section.banner .location svg{
-    width: 18px;
-}
 section.banner .location-text p span{
     margin-right: 5px;
 }
